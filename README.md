@@ -98,11 +98,11 @@ To design and implement a **simple command-line File Explorer** that performs fu
 
 | Day | Description | Screenshot |
 |:---:|:-------------|:------------|
-| **Day 1** | Basic setup – `pwd`, `ls`, `exit` | ![Day 1](screenshots/day1.png) |
-| **Day 2** | Navigation – `cd`, `mkdir`, `touch` | ![Day 2](screenshots/day2.png) |
-| **Day 3** | File management – `cp`, `mv`, `rm`, `info` | ![Day 3](screenshots/day3.png) |
-| **Day 4** | Search & tree view – `find`, `tree`, `help` | ![Day 4](screenshots/day4.png) |
-| **Day 5** | Final version – `history`, `clear`, `exit` | ![Day 5](screenshots/day5.png) |
+| **Day 1** | Basic setup – `pwd`, `ls`, `exit` |
+| **Day 2** | Navigation – `cd`, `mkdir`, `touch'|
+| **Day 3** | File management – `cp`, `mv`, `rm`, `info` |
+| **Day 4** | Search & tree view – `find`, `tree`, `help` |
+| **Day 5** | Final version – `history`, `clear`, `exit` | 
 
 ---
 
