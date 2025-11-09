@@ -175,10 +175,10 @@ exit
 
 ##  Author
 
-**Biseswar Mohapatra**  
+**ABHIPSHA BRAHMA**  
 🎓 Linux System Programming | C++ Developer | Automation Enthusiast  
-📧 [biseswarmohapatra214@gmail.com](mailto:biseswarmohapatra214@gmail.com)  
-🌐 [GitHub Profile](https://github.com/biseswar2004)
+📧 [abhipshabrahma18482@gmail.cm]
+🌐 [GitHub Profile](https://github.com/abhipshabrahma03)
 
 ---
 
